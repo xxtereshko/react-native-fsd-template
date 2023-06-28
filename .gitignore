@@ -1,0 +1,66 @@
+# OSX
+#
+template/.DS_Store
+
+# Xcode
+#
+template/!default.mode1v3
+template/!default.mode2v3
+template/!default.pbxuser
+template/!default.perspectivev3
+template/*.hmap
+template/*.ipa
+template/*.mode1v3
+template/*.mode2v3
+template/*.moved-aside
+template/*.pbxuser
+template/*.perspectivev3
+template/*.xccheckout
+template/*.xcuserstate
+template/build/
+template/DerivedData
+template/ios/.xcode.env.local
+template/xcuserdata
+
+# Android/IntelliJ
+#
+template/!debug.keystore
+template/.cxx/
+template/.gradle
+template/.idea
+template/*.hprof
+template/*.iml
+template/*.keystore
+template/build/
+template/local.properties
+
+# node.js
+#
+template/node_modules/
+template/npm-debug.log
+template/yarn-error.log
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+
+**/fastlane/Preview.html
+**/fastlane/report.xml
+**/fastlane/screenshots
+**/fastlane/test_output
+
+# Bundle artifact
+template/*.jsbundle
+
+# Ruby / CocoaPods
+template/ios/Pods/
+template/vendor/bundle/
+
+# Temporary files created by Metro to check the health of the file watcher
+template/.metro-health-check*
+
+# testing
+template/coverage

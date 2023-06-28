@@ -1,0 +1,8 @@
+{
+  "author": "Maxim Tereshko <hey@tereshko.net>",
+  "description": "React Native FSD Template",
+  "license": "MIT",
+  "name": "react-native-new-template",
+  "repository": "git@github.com:xxtereshko/react-native-fsd-template.git",
+  "version": "0.0.1"
+}
